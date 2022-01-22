@@ -82,7 +82,8 @@
 
             <div class="col-md-4 text-center about-block">
                 <div class="icon-circle">
-                    <img class="about-icon" src="style/img/icons/people-icon.png" alt="" style="margin-top: 25px;height: 40px; width: 50px">
+                    <img class="about-icon" src="style/img/icons/people-icon.png" alt=""
+                         style="margin-top: 25px;height: 40px; width: 50px">
                 </div>
                 <p>Text</p>
             </div>

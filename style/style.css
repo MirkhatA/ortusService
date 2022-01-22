@@ -9,7 +9,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: Arial,Helvetica Neue,Helvetica,sans-serif;
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     color: var(--primary);
 }
 
@@ -51,7 +51,7 @@
         border-radius: 10px;
     }
 
-    .menu li{
+    .menu li {
         text-align: right;
         width: 100%;
     }
@@ -78,7 +78,7 @@
     margin-bottom: 40px;
 }
 
-.main img{
+.main img {
     width: 100%;
 }
 
@@ -182,8 +182,6 @@ footer {
     color: #fff;
 }
 
-
-
 /* ABOUT */
 .a-about-section img {
     width: 100%;
@@ -199,4 +197,122 @@ footer {
         margin: auto;
         padding-left: 10px;
     }
+}
+/* BRANDS */
+
+.brands-page {
+    height: 67vh;
+}
+
+.slider {
+    height: 250px;
+    margin: auto;
+    position: relative;
+    width: 90%;
+    display: grid;
+    place-items: center;
+    overflow: hidden;
+}
+
+.slide-track {
+    display: flex;
+    width: calc(250px * 20);
+    animation: scroll 40s linear infinite;
+}
+
+.slide {
+    height: 300px;
+    width: 250px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    perspective: 100px;
+}
+
+
+.slide img {
+    width: 100%;
+    transition: 0.2s;
+}
+
+.slide-track:hover {
+    animation-play-state: paused;
+}
+
+
+.slide img:hover {
+    transform: scale(1.1);
+}
+
+.slide h5 {
+    margin-top: 10px;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0);
+    }
+    100% {
+        transform: translateX(calc(-250px * 10));
+    }
+}
+
+.category-list {
+    border: 1px solid #EAE2E2;
+    /*padding: 30px;*/
+}
+
+.category-button {
+    background: #F8F8F8;
+    padding: 20px;
+}
+
+.category-button p {
+    margin: 0;
+}
+
+.category-list ul {
+    list-style: none;
+    padding: 20px;
+}
+
+.category-list ul li{
+    padding-bottom: 10px;
+}
+
+.list-active {
+    font-weight: bold;
+}
+
+.category-list a {
+    color: #656565;
+    text-decoration: none;
+}
+
+.category-list a:hover {
+    color: #0a0a0a
+}
+
+.info-pic {
+    width: 100%;
+    height: 15vh;
+    object-fit:cover;
+}
+
+.catalog-block {
+    border: 1px solid #EAE2E2;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.catalog-block p {
+    font-size: 14px;
+}
+
+.catalog-block img{
+    width: 100%;
+}
+
+.catalog-block a {
+    text-decoration: none;
 }
