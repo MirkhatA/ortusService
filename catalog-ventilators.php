@@ -24,13 +24,13 @@
                     <div class="col-md-8">
                         <h5>Lоwenstein Medical prisma VENT40</h5>
 
-                        <div id="catalog-v11" class="catalog-text-shrink">
+                        <div id="catalog-v101" class="catalog-text-shrink">
                             <p>
                                 prisma VENT40 теперь предлагает безопасность и еще большую гибкость. Благодаря широкому диапазону давления до 40 гПа и компенсации объема устройство подходит для лечения широкого спектра заболеваний. И prisma VENT30, и prisma VENT40 поставляются с полным управлением аварийными сигналами, встроенным блоком питания и дополнительной внутренней перезаряжаемой батареей с 12-часовой рабочей емкостью. Эти особенности позволяют легко транспортировать Prisma VENT для безопасного использования в любом месте.
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v1')" id="show-more">Подробнее..</button><br>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v101')" id="show-more">Подробнее..</button><br>
                         <a href="#"><b>More on the manufacturer's website »</b></a>
                     </div>
                 </div>
