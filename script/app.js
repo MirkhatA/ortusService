@@ -1,8 +1,6 @@
 // burger menu
 var menuList = document.getElementById("navbar");
-
 menuList.style.left = "500px";
-
 
 function togglemenu() {
     if (menuList.style.left === "500px") {
@@ -12,6 +10,11 @@ function togglemenu() {
         menuList.style.left = "500px"
     }
 }
+
+
+
+
+
 
 // slider
 const config = {

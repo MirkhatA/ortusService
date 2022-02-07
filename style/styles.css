@@ -79,7 +79,7 @@
 }
 
 .main img {
-    width: 100%;
+    height: 45vh;
 }
 
 .main-title {
@@ -123,7 +123,7 @@
 }
 
 .category img {
-    width: 100%;
+    height: 20vh;
 }
 
 
@@ -158,10 +158,61 @@
     margin: 50px 0;
 }
 
+
 @media only screen and (max-width: 700px) {
     .about-block {
         margin: 0;
     }
+}
+
+
+.contacts {
+    background: #2C3E50;
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+
+.contacts p {
+    color: #fff;
+    margin: 0;
+}
+
+.contacts-block {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+}
+
+.contacts-block img {
+    height: 53px;
+    margin: 5px;
+}
+
+
+
+.mail-section {
+    background: #1E2329;
+    padding: 3% 10% 5% 10%;
+    font-size: 14px;
+}
+
+.mail-section h3 {
+    color: #fff;
+
+}
+
+.mail-section input {
+    width: 100%;
+    height: 50px;
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.mail-section textarea {
+    width: 100%;
+    margin-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 4px;
 }
 
 
@@ -172,14 +223,19 @@
 }
 
 .brands img {
-    width: 200px;
-    margin-top: 20px;
+    width: 180px;
 }
 
+.brands a {
+    width: 180px;
+    margin: 10px;
+}
 
 footer {
     background: #252525;
     color: #fff;
+    position: absolute;
+    width: 100%;
 }
 
 /* ABOUT */
@@ -200,6 +256,25 @@ footer {
 }
 /* BRANDS */
 
+.brand-detail {
+    text-align: justify;
+    height: 90vh;
+}
+
+.brand-image {
+    width: 25vh;
+}
+
+@media only screen and (max-width: 700px) {
+    .brand-detail {
+        text-align: justify;
+
+    }
+}
+
+
+
+
 .brands-page {
     height: 67vh;
 }
@@ -217,7 +292,7 @@ footer {
 .slide-track {
     display: flex;
     width: calc(250px * 20);
-    animation: scroll 40s linear infinite;
+    animation: scroll 30s linear infinite;
 }
 
 .slide {
@@ -253,7 +328,7 @@ footer {
         transform: translateX(0);
     }
     100% {
-        transform: translateX(calc(-250px * 10));
+        transform: translateX(calc(-250px * 9));
     }
 }
 
@@ -315,4 +390,16 @@ footer {
 
 .catalog-block a {
     text-decoration: none;
+}
+
+.catalog-text-shrink {
+    max-height: 170px;
+    overflow: hidden;
+    transition: 0.3s;
+}
+
+.catalog-text-expand {
+    height: auto;
+
+    transition: 0.3s;
 }

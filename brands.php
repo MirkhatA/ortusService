@@ -11,43 +11,57 @@
                     <div class="slider">
                         <div class="slide-track">
                             <div class="slide">
-                                <img src="style/img/brands/bilimetrix_logo.png" alt="">
+                                <a href="brand-bilmetrix.php">
+                                    <img src="style/img/brands/bilimetrix_logo.png" alt="">
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/biolight_logo.png" alt="">
+                                <a href="brand-biolight.php">
+                                    <img src="style/img/brands/biolight_logo.png" alt="">
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/hamilton_logo.png" alt="">
+                                <a href="brand-hamilton.php">
+                                    <img src="style/img/brands/hamilton_logo.png" alt="">   
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/lowenstein_logo.png" alt="">
+                                <a href="lowenstein_medical.php">
+                                    <img src="style/img/brands/lowenstein_logo.png" alt="">
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <a href="brand-medin.php">
+                                    <img src="style/img/brands/medin_logo.png" alt="">
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <a href="brand-tender.php">
+                                    <img src="style/img/brands/tende-logo.png" alt="">
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <a href="brand-tse.php">
+                                    <img style="background: #ebebeb; border-radius: 4px" src="style/img/brands/tse-com.svg" alt="">
+                                </a>
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <a href="brand-rmedia.php">
+                                    <img src="style/img/brands/xz.svg" alt="">
+                                </a>
                             </div>
 
-                            <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
-                            </div>
-
-                            <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                            <div class="slide text-center">
+                                <a href="brand-rvent.php">
+                                    <img style="width: 60%; padding-left: 20%" src="style/img/brands/rventlogo.png" alt="">
+                                </a>
                             </div>
 
                             <!-- same -->
@@ -73,23 +87,19 @@
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <img src="style/img/brands/tende-logo.png" alt="">
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <img style="background: #ebebeb; border-radius: 4px" src="style/img/brands/tse-com.svg" alt="">
                             </div>
 
                             <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                                <img src="style/img/brands/xz.svg" alt="">
                             </div>
 
-                            <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
-                            </div>
-
-                            <div class="slide">
-                                <img src="style/img/brands/medin_logo.png" alt="">
+                            <div class="slide text-center">
+                                <img style="width: 60%; padding-left: 20%" src="style/img/brands/rventlogo.png" alt="">
                             </div>
                         </div>
                     </div>
