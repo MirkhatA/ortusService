@@ -272,11 +272,20 @@ footer {
     }
 }
 
+.brand-links a {
+    color: #2C3E50;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.brand-links a:hover {
+    color: #557b9f;
+}
 
 
 
 .brands-page {
-    height: 67vh;
+    height: 90vh;
 }
 
 .slider {
@@ -291,8 +300,8 @@ footer {
 
 .slide-track {
     display: flex;
-    width: calc(250px * 20);
-    animation: scroll 30s linear infinite;
+    width: calc(250px * 22);
+    animation: scroll 25s linear infinite;
 }
 
 .slide {

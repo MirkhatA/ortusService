@@ -121,7 +121,7 @@
             <a href="brand-tse.php"><img src="style/img/brands/tse-com.svg" style="background: #ebebeb; border-radius: 4px" alt=""></a>
             <a href="brand-rmedia.php"><img src="style/img/brands/xz.svg" alt=""></a>
 
-
+            <a href="brand-rmedia.php"><img src="style/img/brands/seoil.png" alt=""></a>
         </div>
     </div>
 </div>
