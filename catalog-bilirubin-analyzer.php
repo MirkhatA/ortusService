@@ -16,6 +16,28 @@
 
                 <h3>Анализатор билирубина</h3>
 
+                <div class="catalog-block row">
+                    <div class="col-md-4"><img class="catalog-img" src="style/img/catalog/analiz/1.png" alt=""></div>
+
+                    <div class="col-md-8">
+                        <!-- title -->
+                        <h5>Bilimetrix-Система Bilistick  </h5>
+
+                        <!-- id -->
+                        <div id="catalog-bil1" class="catalog-text-shrink">
+                            <p>
+                                Система Bilistick - это инновационное диагностическое устройство, задуманное как тест Point Of Care для измерения общей концентрации билирубина в образцах цельной крови новорожденных. Он состоит из тест-полоски Bilistick, куда загружается небольшое количество крови, и Bilistick Reader, который анализирует образец и показывает результат.
+                                <br>
+                                <br>Благодаря простому методу, небольшому размеру и использованию считывающего устройства с батарейным питанием система Bilistick не требует наличия высококвалифицированного персонала или оборудования для анализа, что делает диагностику и мониторинг желтухи новорожденных простой практикой даже за пределами больницы. Например, во время домашнего наблюдения или в кабинете врача.
+                            </p>
+                        </div>
+
+                        <!-- id -->
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-bil1')" id="show-more">Подробнее..</button><br>
+                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                    </div>
+                </div>
+
             </div>
         </div>
     </div>

@@ -16,7 +16,7 @@
     <link rel="stylesheet" href="style/glide.core.min.css">
     <link rel="stylesheet" href="style/glide.theme.min.css">
 
-    <link rel="stylesheet" href="style/styles.css">
+    <link rel="stylesheet" href="style/style.css">
 
 
     <title>Ortus Service</title>

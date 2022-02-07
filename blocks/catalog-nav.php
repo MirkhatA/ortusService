@@ -12,5 +12,7 @@
         <li><a href="catalog-sleep-diagnostics.php">Диагностика сна</a></li>
         <li><a href="catalog-bilirubin-analyzer.php">Aнализатор билирубина</a></li>
         <li><a href="catalog-consumables.php">Расходники</a></li>
+
+        <li><a href="catalog-neonatal-care.php">Системы неонатальной помощи</a></li>
     </ul>
 </div>
