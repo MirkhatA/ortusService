@@ -4,7 +4,7 @@
 <div class="container main">
     <div class="row">
         <div class="col-md-6 main-left">
-            <h1 class="main-title">Добро пожаловать в NOVOMEDKZ</h1>
+            <h1 class="main-title">Приветсвуем вас в ORTUS SERVICE</h1>
             <a href="#" class="main-btn">КАТАЛОГ</a>
         </div>
 
@@ -121,7 +121,7 @@
             <a href="brand-tse.php"><img src="style/img/brands/tse-com.svg" style="background: #ebebeb; border-radius: 4px" alt=""></a>
             <a href="brand-rmedia.php"><img src="style/img/brands/xz.svg" alt=""></a>
 
-            <a href="brand-rmedia.php"><img src="style/img/brands/seoil.png" alt=""></a>
+            <a href="brand-seoil.php"><img src="style/img/brands/seoil.png" alt=""></a>
         </div>
     </div>
 </div>
