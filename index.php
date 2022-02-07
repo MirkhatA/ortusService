@@ -58,7 +58,7 @@
                         <p>Диагностика сна</p>
                     </li>
                     <li class="glide__slide">
-                        <a href="catalog-bilirubin-analyzer.php"><img src="style/img/categories/bilirubin.png" alt=""></a>
+                        <a href="catalog-bilirubin-analyzer.php"><img src="style/img/categories/bilirubin.png" style="width: 90%" alt=""></a>
                         <p>Aнализатор билирубина</p>
                     </li>
                 </ul>
