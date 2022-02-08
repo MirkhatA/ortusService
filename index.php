@@ -47,7 +47,7 @@
                     </li>
                     <li class="glide__slide">
                         <a href="catalog-sleep-therapy.php"><img src="style/img/categories/sonnaya-ter.png" alt=""></a>
-                        <p>Сонная терапия</p>
+                        <p>Аппараты для СИПАП-терапии</p>
                     </li>
                     <li class="glide__slide">
                         <a href="catalog-expectorants.php"><img src="style/img/categories/otkash.png" alt=""></a>

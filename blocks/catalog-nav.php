@@ -8,7 +8,7 @@
         <li><a href="catalog-expectorants.php">Откашливатели</a></li>
         <li><a href="catalog-ventilators.php">Аппараты искусственной вентиляции легких</a></li>
 
-        <li><a href="catalog-sleep-therapy.php">Сонная терапия</a></li>
+        <li><a href="catalog-sleep-therapy.php">Аппараты для СИПАП-терапии</a></li>
         <li><a href="catalog-sleep-diagnostics.php">Диагностика сна</a></li>
         <li><a href="catalog-bilirubin-analyzer.php">Aнализатор билирубина</a></li>
         <li><a href="catalog-consumables.php">Расходники</a></li>
