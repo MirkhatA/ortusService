@@ -23,6 +23,10 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-bilirubin-analyzer.php#catalog-bil1">Bilimetrix-Система Bilistick</a></li>
+            </ul>
         </div>
     </div>
 </section>

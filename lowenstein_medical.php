@@ -31,8 +31,23 @@
 
             <ul class="mt-4">
                 <h4>Товары</h4>
-                <li><a href="catalog.php#content-4">LÖWENSTEIN LEON MRI</a></li>
+                <li><a href="catalog.php">LÖWENSTEIN LEON Basic Анестезиологическая рабочая станция</a></li>
+                <li><a href="catalog.php#content-1">LÖWENSTEIN LEON Анестезиологическая рабочая станция</a></li>
+                <li><a href="catalog.php#content-2">LÖWENSTEIN LEON Plus Анестезиологическая рабочая станция</a></li>
+                <li><a href="catalog.php#content-3">LÖWENSTEIN LEON MRI Анестезиологическая рабочая станция</a></li>
+                <li><a href="catalog-ventilators.php">Lоwenstein Medical prisma VENT40</a></li>
+                <li><a href="catalog-ventilators.php#catalog-v101">Lоwenstein Medical prisma VENT50-C</a></li>
+                <li><a href="catalog-ventilators.php#catalog-v2">Lоwenstein Medical prisma VENTIlogic LS</a></li>
+                <li><a href="catalog-ventilators.php#catalog-v3">Lоwenstein Medical prisma SMART</a></li>
+                <li><a href="catalog-sleep-therapy.php">Lоwenstein Medical prisma 20A</a></li>
+                <li><a href="catalog-sleep-therapy.php#catalog-s1">Lоwenstein Medical prisma 25S</a></li>
+                <li><a href="catalog-sleep-therapy.php#catalog-s2">Lоwenstein Medical prisma  25ST</a></li>
+                <li><a href="catalog-sleep-therapy.php#catalog-s3">Lоwenstein Medical prisma LAB</a></li>
+                <li><a href="catalog-sleep-diagnostics.php">Lоwenstein Medical SOMNOcheck micro CARDIO</a></li>
+                <li><a href="catalog-sleep-diagnostics.php#catalog-d1">Lоwenstein Medical Sonata</a></li>
             </ul>
+
+
         </div>
     </div>
 </section>

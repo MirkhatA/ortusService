@@ -29,6 +29,11 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-ventilators.php#catalog-v7">MedinCNO</a></li>
+                <li><a href="catalog-ventilators.php#catalog-v8">Medin-NC3</a></li>
+            </ul>
         </div>
     </div>
 </section>

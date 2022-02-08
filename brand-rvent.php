@@ -25,6 +25,10 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-consumables.php#catalog-ras1">Расходники RVENT</a></li>
+            </ul>
         </div>
     </div>
 </section>

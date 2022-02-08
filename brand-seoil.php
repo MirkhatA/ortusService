@@ -21,6 +21,10 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-expectorants.php#catalog-e1">Seoil Pacific Corp. ComfortCoughII - СС20</a></li>
+            </ul>
         </div>
     </div>
 </section>

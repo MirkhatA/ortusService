@@ -29,6 +29,12 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-ventilators.php#catalog-v4">HAMILTON-C1</a></li>
+                <li><a href="catalog-ventilators.php#catalog-v5">HAMILTON-C6</a></li>
+            </ul>
+
         </div>
     </div>
 </section>

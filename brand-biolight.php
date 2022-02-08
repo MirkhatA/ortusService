@@ -37,6 +37,27 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-module-monitor.php">BIOLIGHT M9000 Многопараметрический монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-5">BIOLIGHT M8000A Многопараметрический монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-6">BIOLIGHT M9000A Многопараметрический монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-7">BIOLIGHT M8500 Многопараметрический монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-8">BIOLIGHT M9500 Многопараметрический монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-9">BIOLIGHT M800 Портативный монитор</a></li>
+                <li><a href="catalog-module-monitor.php#content-10">BIOLIGHT Q5 Модульный монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-11">BIOLIGHT Q7 Модульный монитор пациента</a></li>
+                <li><a href="catalog-module-monitor.php#content-12">BIOLIGHT Q3 Монитор новорожденных</a></li>
+                <li><a href="catalog-module-monitor.php#content-13">BIOLIGHT V6 Монитор жизненных сигналов</a></li>
+                <li><a href="catalog-module-monitor.php#content-14">BIOLIGHT ESG E65 Электрокардиограф</a></li>
+                <li><a href="catalog-module-monitor.php#content-15">BIOLIGHT ESG E70 Электрокардиограф</a></li>
+                <li><a href="catalog-module-monitor.php#content-16">BIOLIGHT ESG E80 Электрокардиограф</a></li>
+                <li><a href="catalog-module-monitor.php#content-17">BIOLIGHT WF100 ультразвуковой фетальный доплер</a></li>
+                <li><a href="catalog-module-monitor.php#content-18">BIOLIGHT F30 Монитор плода</a></li>
+                <li><a href="catalog-module-monitor.php#content-19">BIOLIGHT F50 Монитор плода/материнства</a></li>
+                <li><a href="catalog-module-monitor.php#content-20">BIOLIGHT F80 Монитор плода</a></li>
+                <li><a href="catalog-module-monitor.php#content-21">BIOLIGHT F50 Монитор плода/материнства</a></li>
+            </ul>
         </div>
     </div>
 </section>

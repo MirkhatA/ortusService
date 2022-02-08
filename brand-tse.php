@@ -25,6 +25,11 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-neonatal-care.php#catalog-neo11">NATALLY</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo12">SHELLY</a></li>
+            </ul>
         </div>
     </div>
 </section>

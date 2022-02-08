@@ -23,6 +23,16 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-neonatal-care.php#catalog-neo1">Неонатальный инкубатор Satis 3555</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo2">Транспортный инкубатор для новоржденных N.I.T.E</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo3">Система фототерапии, варианты исполнения Leddy Bloo</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo4">Система фототерапии, варианты исполнения OBloo</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo5">Обогреватель FABIE 4300 для новорожденных</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo6">Обогреватель Ambia для новорожденных</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo7">Неонатальный инкубатор Inotherm</a></li>
+            </ul>
         </div>
     </div>
 </section>

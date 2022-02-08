@@ -23,6 +23,14 @@
                 </div>
             </div>
 
+
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog-neonatal-care.php#catalog-neo7">TENDE VAV</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo8">TENDE VAV TR</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo9">Tende CareBlue</a></li>
+                <li><a href="catalog-neonatal-care.php#catalog-neo10">babyblue 360</a></li>
+            </ul>
         </div>
     </div>
 </section>
