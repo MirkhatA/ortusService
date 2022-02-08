@@ -293,7 +293,7 @@
                         </h5>
 
                         <!-- description -->
-                        <div id="content-10" class="catalog-text-shrink">
+                        <div id="content-101" class="catalog-text-shrink">
                             <p>
                             Новые визуальные эффекты
                             <br>
@@ -322,7 +322,7 @@
                         </div>
 
                         <!-- button -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-10')" id="show-more">Подробнее..</button>
+                        <button class="btn btn-primary" onclick="toggleItem('content-101')" id="show-more">Подробнее..</button>
 
                         <br>
 

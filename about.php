@@ -9,10 +9,11 @@
             </div>
 
             <div class="col-md-6 text-start a-about-text">
-                <p class="mb-5">В настоящее время компания NOVOMEDKZ разделена на три основных подразделения:
-                    подразделение медицинского оборудования по обоим направлениям: продажи и техническая поддержка, а
-                    также подразделение по консультациям и планированию для проектов «под ключ».</p>
-                <a href="#" class="main-btn">СВЯЖИТЕСЬ С НАМИ</a>
+                <p class="mb-5">ТОО ”Ortus Service” существует на рынке с 2012 года. Наша компания специализируется на продаже и обслужвания медицинского оборудования. Все товары поставленные нами прошли все необходимые меры проверки и они соблюдают всем необходимым требованиям и нормам.
+                    В штатае компаний работают высококвалифицированные cпециалисты которые отвечают за надежность исполнения и        качество оказаных услуг.
+                    Главный офис находится в г.Нур-Султан.
+                </p>
+                <a href="#email-s" class="main-btn">СВЯЖИТЕСЬ С НАМИ</a>
             </div>
 
             <h2 class="mb-3 mt-5">Наши услуги</h2>
@@ -28,9 +29,11 @@
                     <li>Системы неонатальной помощи</li>
                     <li>Мастер класс</li>
                     <li>Домашняя терапия</li>
+                    <li>Установка медицинского оборудования</li>
+                    <li>Ремонт и сервисное обслуживание</li>
                 </ul>
 
-                <a href="#" class="main-btn">НАШИ ТОВАРЫ</a>
+                <a href="catalog.php" class="main-btn">НАШИ ТОВАРЫ</a>
             </div>
 
             <div class="col-md-6 mb-4 mt-4">
@@ -68,7 +71,7 @@
         </div>
     </div>
 
-    <div class="container-fluid mail">
+    <div class="container-fluid mail" id="email-s">
         <div class="row">
             <div class="col-md-6">
                 <section>
@@ -87,7 +90,7 @@
                         <input type="text" id="email" name="email" placeholder="Ваш e-mail"> <br>
                         <textarea name="body" id="body" cols="20" rows="7" placeholder="Сообщение"></textarea>
 
-                        <button href="#" type="button" onclick="sendEmail() class="main-btn">Отправить</a>
+                        <button class="main-btn" style="border: 0px" href="#" type="button" onclick="sendEmail() class="main-btn">Отправить</a>
                     </form>
                 </div>
             </div>

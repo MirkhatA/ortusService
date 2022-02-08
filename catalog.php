@@ -8,9 +8,9 @@
 
         <div class="col-md-8">
             <div class="catalog-info">
-                <h4>ТОВАРЫ вы можете купить в НОВОМЕД</h4>
+                <h4>ТОВАРЫ вы можете купить в ORTUS SERVICE</h4>
 
-                <p>NOVOMED предоставляет следующие продукты LÖWENSTEIN medical, HAMILTON Medical, MEDIN, TSE и KLS Martin Group: электрохирургическое оборудование, хирургические лазерные системы, операционные и диагностические светильники, рабочие станции для анестезии, системы инкубаторов для новорожденных, аппараты ИВЛ, периферийные устройства, аксессуары и расходные материалы.</p>
+                <p>ORTUS SERVICE предоставляет следующие продукты LÖWENSTEIN medical, HAMILTON Medical, MEDIN, TSE и KLS Martin Group: электрохирургическое оборудование, хирургические лазерные системы, операционные и диагностические светильники, рабочие станции для анестезии, системы инкубаторов для новорожденных, аппараты ИВЛ, периферийные устройства, аксессуары и расходные материалы.</p>
 
                 <img class="info-pic" src="https://images.unsplash.com/photo-1628771065518-0d82f1938462?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80" alt="">
 
@@ -44,6 +44,8 @@
                         </div>
 
                         <button class="btn btn-primary" onclick="toggleItem('content-1')" id="show-more">Подробнее..</button>
+
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
                         <a href="#"><b>More on the manufacturer's website »</b></a>

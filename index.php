@@ -68,41 +68,6 @@
 </div>
 
 
-<div class="about">
-    <div class="container">
-        <div class="row about-row">
-            <div class="col-md-4 text-center about-block">
-                <div class="icon-circle">
-                    <img class="about-icon" src="style/img/icons/bank-svgrepo-com%201.png" alt="">
-                </div>
-                <p>
-                    У нас есть успешный опыт проведения тендеров, финансируемых KFW, IDB, OPEC, Фондом Агахана и Всемирным банком.
-                </p>
-            </div>
-
-            <div class="col-md-4 text-center about-block">
-                <div class="icon-circle">
-                    <img class="about-icon" src="style/img/icons/hospital-svgrepo-com%201.png" alt="">
-                </div>
-                <p>
-                    Основатели нашей компании на протяжении многих лет поставляли медицинское оборудование и технологии в Центральной Азии, такие как Казахстан, Таджикистан, Узбекистан и Кыргызстан.
-                </p>
-            </div>
-
-            <div class="col-md-4 text-center about-block">
-                <div class="icon-circle">
-                    <img class="about-icon" src="style/img/icons/people-icon.png" alt=""
-                         style="margin-top: 25px;height: 40px; width: 50px">
-                </div>
-                <p>
-                    В составе нашей команды состоят только высококвалифицированные спкциалисты и они отвечают за качество предоставленных услуг
-                </p>
-            </div>
-
-        </div>
-    </div>
-</div>
-
 
 <div class="brands">
     <div class="container">

@@ -29,6 +29,10 @@
                 </div>
             </div>
 
+            <ul class="mt-4">
+                <h4>Товары</h4>
+                <li><a href="catalog.php#content-4">LÖWENSTEIN LEON MRI</a></li>
+            </ul>
         </div>
     </div>
 </section>

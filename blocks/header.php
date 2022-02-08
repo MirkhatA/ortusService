@@ -45,6 +45,9 @@
         <li class="nav-item">
             <a href="catalog.php" class="nav-link">Каталог</a>
         </li>
+        <li class="nav-item">
+            <a href="contacts.php" class="nav-link">Контакты</a>
+        </li>
     </ul>
 </nav>
 
