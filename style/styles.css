@@ -421,3 +421,21 @@ footer {
         max-height: 70px;
     }
 }
+
+footer li {
+    list-style: none;
+}
+
+footer a {
+    color: #EAE2E2;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+footer svg {
+    color: #EAE2E2;
+}
+
+footer a:hover {
+    color: #7e7878;
+}

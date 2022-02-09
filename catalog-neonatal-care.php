@@ -10,7 +10,7 @@
             <div class="catalog-info">
                 <?php require 'blocks/catalog-title.php' ?>
 
-                <h3>Системы неонатальной помощи</h3>
+                <h3>Неонатология</h3>
 
 
 

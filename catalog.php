@@ -14,42 +14,6 @@
 
                 <div class="catalog-block row">
                     <div class="col-md-4">
-                        <img class="catalog-img" src="style/img/catalog/anaztez/1.png" alt="">
-                    </div>
-
-                    <div class="col-md-8">
-                        <h5>LÖWENSTEIN LEON Basic
-                            Анестезиологическая рабочая станция
-                        </h5>
-
-                        <div id="content-1" class="catalog-text-shrink">
-                            <p>
-                                Эта персональная рабочая станция для анестезии сочетает в себе проверенный эргономичный дизайн и гигиенические концепции с передовыми технологиями, обеспечивая оптимальную поддержку для вашей работы, например во время начала и во время операций, для диагностических целей и других соответствующих больничных систем.
-                                <br>
-                                <br>LEON Основные характеристики
-                                <br>- Эффективность повторной вентиляции на уровне интенсивной вентиляции
-                                <br>-Классическая газовая смесь через расходомерные трубки
-                                <br>-Пневматический привод вентилятора
-                                <br>-Система пациента, разработанная для эффективной подготовки и максимально простой сборки
-                                <br>-Смена поглотителя во время работы
-                                <br>-Вентиляционная техника для ухода за пациентами любого возраста
-                                <br>-Режимы вентиляции: IMV, PCV, Man. Спонтанный.
-                                <br>
-                                Дополнительно: SIMV, SPCV, PSV
-                            </p>
-                        </div>
-
-                        <button class="btn btn-primary" onclick="toggleItem('content-1')" id="show-more">Подробнее..</button>
-
-                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
-                        <br>
-
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
-                    </div>
-                </div>
-
-                <div class="catalog-block row">
-                    <div class="col-md-4">
                         <img class="catalog-img" src="style/img/catalog/anaztez/2.png" alt="">
                     </div>
 
@@ -80,7 +44,7 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-2')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
                         <a href="#"><b>More on the manufacturer's website »</b></a>
@@ -130,7 +94,7 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-3')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
                         <a href="#"><b>More on the manufacturer's website »</b></a>
@@ -166,7 +130,7 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-4')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
                         <a href="#"><b>More on the manufacturer's website »</b></a>

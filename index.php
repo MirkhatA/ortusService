@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-6 main-left">
             <h1 class="main-title">Приветсвуем вас в ORTUS SERVICE</h1>
-            <a href="#" class="main-btn">КАТАЛОГ</a>
+            <a href="catalog.php" class="main-btn">КАТАЛОГ</a>
         </div>
 
         <div class="col-md-6">
@@ -60,6 +60,10 @@
                     <li class="glide__slide">
                         <a href="catalog-bilirubin-analyzer.php"><img src="style/img/categories/bilirubin.png" style="width: 90%" alt=""></a>
                         <p>Aнализатор билирубина</p>
+                    </li>
+                    <li class="glide__slide">
+                        <a href="catalog-neonatal-care.php"><img src="style/img/catalog/catalog-neonatal/2.png" style="width: 90%" alt=""></a>
+                        <p>Неонатология</p>
                     </li>
                 </ul>
             </div>
