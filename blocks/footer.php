@@ -1,5 +1,5 @@
 <script src="https://cdn.jsdelivr.net/npm/@glidejs/glide"></script>
-<script src="script/app.js"></script>
+<script src="script/apps.js"></script>
 <script src="script/sendEmail.js"></script>
 <script src="script/itemDetails.js"></script>
 

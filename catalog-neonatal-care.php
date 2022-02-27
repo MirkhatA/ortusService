@@ -44,8 +44,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo1')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo1')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -63,8 +64,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo2')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo2')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -83,8 +85,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo3')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo3')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -110,8 +113,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo4')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo4')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -130,8 +134,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo5')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo5')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -156,8 +161,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo6')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo6')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -182,8 +188,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo7')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo7')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -203,7 +210,7 @@
 
                         <!-- id -->
                         <button class="btn btn-primary" onclick="toggleItem('catalog-neo8')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -221,8 +228,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo9')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo9')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -262,8 +270,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo10')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo10')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -299,8 +308,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo11')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo11')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -328,8 +338,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo12')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo12')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -354,8 +365,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo13')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-neo13')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
             </div>

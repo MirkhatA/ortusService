@@ -4,7 +4,9 @@
 <div class="container main">
     <div class="row">
         <div class="col-md-6 main-left">
-            <h1 class="main-title">Приветсвуем вас в ORTUS SERVICE</h1>
+            <h1 class="main-title">Приветсвуем вас в
+                <span style="color: #F4336D">ORTUS</span><span style="font-family: 'Gideon Roman';color: #4F85BB">service</span>
+            </h1>
             <a href="catalog.php" class="main-btn">КАТАЛОГ</a>
         </div>
 
@@ -12,9 +14,9 @@
             <div class="glide">
                 <div class="glide__track" data-glide-el="track">
                     <ul class="glide__slides text-center">
+                        <li class="glide__slide"><a href="#"><img style="height: 35vh; margin-top: 40px" src="style/img/main-3.png" alt=""></a></li>
                         <li class="glide__slide"><a href="#"><img src="style/img/main-1.png" alt=""></a></li>
                         <li class="glide__slide"><a href="#"><img style="height: 35vh; margin-top: 40px" src="style/img/main-2.png" alt=""></a></li>
-                        <li class="glide__slide"><a href="#"><img style="height: 35vh; margin-top: 40px" src="style/img/main-3.png" alt=""></a></li>
                     </ul>
                 </div>
             </div>

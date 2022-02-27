@@ -19,6 +19,7 @@ function togglemenu() {
 // slider
 const config = {
     type: 'carousel',
+    autoplay: 2800,
     perView: 1,
     breakpoints: {
         1024: {
@@ -28,6 +29,7 @@ const config = {
             perView: 1
         }
     },
+
 }
 
 new Glide('.glide', config).mount();
@@ -36,6 +38,7 @@ new Glide('.glide', config).mount();
 // slider
 const configCarousel = {
     type: 'carousel',
+    autoplay: 2000,
     perView: 5,
     breakpoints: {
         1024: {

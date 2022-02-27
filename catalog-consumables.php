@@ -38,8 +38,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-ras1')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-ras1')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 

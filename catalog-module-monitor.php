@@ -51,10 +51,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-5')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -98,10 +98,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-6')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -130,10 +130,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-7')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -169,10 +169,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-8')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -230,10 +230,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-9')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -269,10 +269,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-10')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -319,10 +319,10 @@
 
                         <!-- button -->
                         <button class="btn btn-primary" onclick="toggleItem('content-11')" id="show-more">Подробнее..</button>
-
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -362,8 +362,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-12')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-12')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -389,8 +390,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-13')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-13')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -430,8 +432,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-14')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-14')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -479,8 +482,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-15')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-15')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -524,8 +528,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-16')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-16')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -570,8 +575,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-17')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-17')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -606,8 +612,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-18')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-18')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -648,8 +655,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-19')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-19')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -690,8 +698,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-20')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-20')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -731,8 +740,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-21')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-21')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -775,8 +785,9 @@
                         </div>
 
                         <!-- id -->
-                        <button class="btn btn-primary" onclick="toggleItem('content-22')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('content-22')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 

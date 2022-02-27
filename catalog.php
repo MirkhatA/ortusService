@@ -47,7 +47,7 @@
                         <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -97,7 +97,7 @@
                         <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -133,7 +133,7 @@
                         <a href="contacts.php" class="ms-3">Связаться с нами</a>
                         <br>
 
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 

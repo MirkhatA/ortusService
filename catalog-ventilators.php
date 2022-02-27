@@ -26,8 +26,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v101')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v101')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -48,8 +49,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v2')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v2')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -66,8 +68,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v3')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v3')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -83,8 +86,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v4')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v4')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -110,8 +114,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v5')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v5')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -130,8 +135,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v6')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v6')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -150,8 +156,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v7')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v7')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
 
@@ -172,8 +179,9 @@
                             </p>
                         </div>
 
-                        <button class="btn btn-primary" onclick="toggleItem('catalog-v8')" id="show-more">Подробнее..</button><br>
-                        <a href="#"><b>More on the manufacturer's website »</b></a>
+                        <button class="btn btn-primary" onclick="toggleItem('catalog-v8')" id="show-more">Подробнее..</button>
+                        <a href="contacts.php" class="ms-3">Связаться с нами</a><br>
+                        <a href="#"><b>Подробнее на сайте производителя »</b></a>
                     </div>
                 </div>
             </div>
